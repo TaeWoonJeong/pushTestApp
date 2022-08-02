@@ -11,9 +11,6 @@ dependencyResolutionManagement {
         google()
         mavenCentral()
     }
-    dependencies {
-
-    }
 }
 rootProject.name = "PushTestApp"
 include ':app'
